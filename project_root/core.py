@@ -1,4 +1,5 @@
+class Number:
 
-def add(*nums):
-    return sum(nums)
+    def add(*nums):
+        return sum(nums)
 
