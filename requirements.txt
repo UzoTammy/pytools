@@ -1,9 +1,0 @@
-certifi==2020.6.20
-distlib==0.3.6
-filelock==3.12.2
-FirstPackage==0.1
-path==15.0.0
-pipenv==2023.7.23
-platformdirs==3.8.1
-virtualenv==20.23.1
-virtualenv-clone==0.5.7
