@@ -1,6 +1,6 @@
 from celery import Celery
 
-celery_app = Celery('firstpackage.tally')
+celery_app = Celery('firstpackage.tasks')
 
 
 @celery_app.task
